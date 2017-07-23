@@ -7,4 +7,5 @@ const logger = createLogger({
   collapsed: true,
 });
 
+
 export default compose(applyMiddleware(logger, thunk))(createStore)(root);

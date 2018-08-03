@@ -23,7 +23,7 @@
     "morgan": "^1.7.0",
     "path-to-regexp": "^1.7.0",
     "react": "^15.4.0",
-    "react-dom": "^15.4.0",
+    "react-dom": "^16.0.1",
     "react-intl": "^2.1.5",
     "react-redux": "^4.4.5",
     "react-router-dom": "^4.0.0",
